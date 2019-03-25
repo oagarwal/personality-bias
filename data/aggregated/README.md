@@ -1,0 +1,1 @@
+The first column is the personality description. The second column is the average rating. The third colum is the p-value for the Wilcoxon signed-rank test that checks if the mean is different than zero. If the p-value was greater than 0.05, the rating was considered insignficant and taken to be 0 for the prediction tasks.
