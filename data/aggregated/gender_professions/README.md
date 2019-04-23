@@ -1,0 +1,1 @@
+Similar to personality, people were asked to rate on a seven-point scale how likely is the given profession to be male/female, with -3 as 'most likely male', +3 as 'most likely female' and 0 as 'could be either'.
